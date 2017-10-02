@@ -1,0 +1,6 @@
+pysha3
+base58
+pyblake2
+python-axolotl-curve25519
+ipwhois
+requests
